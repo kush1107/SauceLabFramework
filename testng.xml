@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SauceDemoSuite">
+
+	<listeners>
+		<listener class-name="saucelab.qa.reports.ExtentReportManager"/>
+	</listeners>
+
+  <test thread-count="5" name="SauceDemoTest">
+    <classes>
+      <class name="saurcelab.qa.tests.SauceDemoTest"/>
+    </classes>
+  </test> <!-- SauceDemoTest -->
+</suite> <!-- SauceDemoSuite -->

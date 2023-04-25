@@ -1,0 +1,15 @@
+2023-04-25 12:26:15 INFO  SauceDemoTest:57 - ********** Getting Environment Properties ***************
+2023-04-25 12:26:16 INFO  SauceDemoTest:64 - ********** Launching  Browser  ***************
+2023-04-25 12:26:20 INFO  WebEventListener:57 - ********** Getting Environment Properties ***************
+2023-04-25 12:26:21 INFO  WebEventListener:101 - ********** Launching The website   ***************
+2023-04-25 12:26:21 INFO  SauceDemo:57 - ********** Getting Environment Properties ***************
+2023-04-25 12:26:21 INFO  SauceDemoTest:36 - ********** Execution of Setup method  ***************
+2023-04-25 12:26:26 INFO  SauceDemoTest:70 - ********** UserLogin Process  ***************
+2023-04-25 12:26:33 INFO  SauceDemoTest:79 - ********** Selection of Low to High  ***************
+2023-04-25 12:26:36 INFO  SauceDemoTest:89 - ********** Added Products to cart ***************
+2023-04-25 12:26:41 INFO  SauceDemoTest:101 - ********** Checked Detials of Products   ***************
+2023-04-25 12:26:44 INFO  SauceDemoTest:109 - ********** Checked Checkout detials  ***************
+2023-04-25 12:26:46 INFO  SauceDemoTest:119 - ********** Checked Payment Info  ***************
+2023-04-25 12:26:54 INFO  SauceDemoTest:127 - ********** OrderPlaced Successfully  ***************
+2023-04-25 12:26:59 INFO  SauceDemoTest:138 - ********** User is logout   ***************
+2023-04-25 12:27:00 INFO  SauceDemoTest:43 - ********** Closing the browser  ***************
